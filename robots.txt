@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yancongtan-afk.github.io/snippets-3ho29x/sitemap.xml
